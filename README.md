@@ -47,7 +47,7 @@ This version fixes those problems and improves compatibility with MTK devices.
 
 - arm64-v8a architecture
 
-- kernelsu - required magic mount (any meta module)
+- kernelsu - Hybrid Mount /OverlayFs (any meta module)
 
 - grant root access (both apk)
   
