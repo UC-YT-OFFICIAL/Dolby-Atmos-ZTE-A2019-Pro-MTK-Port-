@@ -92,7 +92,7 @@ This version fixes those problems and improves compatibility with MTK devices.
 📥 Download & Support
 
 - Telegram Group:
-  https://t.me/+lz2xpnKBfacyOWNl
+  [https://t.me/+lz2xpnKBfacyOWNl](https://t.me/+ypDU6ivVFmk0Njk1)
 
 ---
 
