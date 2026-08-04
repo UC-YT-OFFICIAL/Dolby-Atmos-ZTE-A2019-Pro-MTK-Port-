@@ -47,7 +47,7 @@ This version fixes those problems and improves compatibility with MTK devices.
 
 - arm64-v8a architecture
 
-- kernelsu - Magic Mount Rs 
+- kernelsu/Apatch/ Must Install Meta Module - Magic Mount Rs 
 
 - grant root access (both apk)
   
