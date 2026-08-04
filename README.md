@@ -37,7 +37,9 @@ This version fixes those problems and improves compatibility with MTK devices.
 - CMF Phone 1
 - Processor: Dimensity 7300
 
----
+--- 
+
+Working - All MTK Devices 
 
 ⚠️ Requirements
 
